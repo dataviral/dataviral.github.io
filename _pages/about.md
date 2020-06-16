@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website tracking projects and work experiences."
+title: "Hi! I'm Aviral Joshi"
 excerpt: "Student@CMU"
 author_profile: true
 redirect_from: 
