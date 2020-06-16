@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Masters student in Language Technologies Institute at Carnegie Mellon University. I am majoring in Computational Data Science with specialization in Analytics and being advised by Prof. Eric Nyberg.
+I am a Master's student in the Language Technologies Institute at Carnegie Mellon University. I am majoring in Computational Data Science with a specialization in Analytics. My research interest is aligned with developing Machine Learning algorithms to help extract insights from large-scale multimedia data. While at CMU I have worked on diverse projects in Natural Language Processing and Computer Vision.
 
-The Analytics specialization is focused towards developing skills in Machine Learning to derive insights from large-scale multimedia data.
+My Capstone research project is aimed at developing a semi-supervised approach for classifying macromolecular structures present in Cryo-ET generated Subtomograms. This work currently under review at the British Machine Vision Conference 2020.
