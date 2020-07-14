@@ -17,6 +17,9 @@ My Capstone research project is aimed at developing a semi-supervised approach f
 
 
 
+<h2>Word Cloud from Projects</h2>
+<div style="width: 100%;" data-wordart-src="//cdn.wordart.com/json/08cvjqm3is03" data-wordart-show-attribution></div>
+
 <h2> Github Contributions </h2>
 <!-- Prepare a container for your calendar. -->
 <script
@@ -39,7 +42,3 @@ My Capstone research project is aimed at developing a semi-supervised approach f
 <script>
     new GitHubCalendar(".calendar", "dataviral");
 </script>
-
-
-<h2>Word Cloud from Projects</h2>
-<div style="width: 100%;" data-wordart-src="//cdn.wordart.com/json/08cvjqm3is03" data-wordart-show-attribution></div>
