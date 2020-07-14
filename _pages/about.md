@@ -42,4 +42,4 @@ My Capstone research project is aimed at developing a semi-supervised approach f
 
 
 <h2>Word Cloud from Projects</h2>
-<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/08cvjqm3is03" data-wordart-show-attribution></div>
+<div style="width: 100%;" data-wordart-src="//cdn.wordart.com/json/08cvjqm3is03" data-wordart-show-attribution></div>
