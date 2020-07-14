@@ -14,7 +14,7 @@ My Capstone research project is aimed at developing a semi-supervised approach f
 
 
 
-## Github Contributions
+<h2> Github Contributions </h2>
 <!-- Prepare a container for your calendar. -->
 <script
   src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
