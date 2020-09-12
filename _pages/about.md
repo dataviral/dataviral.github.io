@@ -13,7 +13,9 @@ redirect_from:
 
 I am a Master's student in the Language Technologies Institute at Carnegie Mellon University. I am majoring in Computational Data Science with a specialization in Analytics. My research interest is aligned with developing Machine Learning algorithms to help extract insights from large-scale multimedia data. While at CMU I have worked on diverse projects in Natural Language Processing and Computer Vision.
 
-My Capstone research project is aimed at developing a semi-supervised approach for classifying macromolecular structures present in Cryo-ET generated Subtomograms. This work is currently under review at the British Machine Vision Conference 2020.
+Summer 2020: Ongoing Capstone research project aimed at developing an approach for visual dialog-based navigation of an autonomous agent in urban search and rescue scenario.
+
+Spring 2020: Part of a research project aimed at developing a semi-supervised approach for classifying macromolecular structures present in Cryo-ET generated Subtomograms. This work is currently under review at WACV.
 
 
 
