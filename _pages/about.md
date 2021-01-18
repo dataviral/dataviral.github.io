@@ -11,12 +11,15 @@ redirect_from:
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 
 
-I am a Master's student in the Language Technologies Institute at Carnegie Mellon University. I am majoring in Computational Data Science with a specialization in Analytics. My research interest is aligned with developing Machine Learning algorithms to help extract insights from large-scale multimedia data. While at CMU I have worked on diverse projects in Natural Language Processing and Computer Vision.
+I am a recent graduate from Carnegie Mellon University's Language Technologies Institute. My major pertrained to Data Science with a specialization in Analytics. My research interest is aligned with developing Machine Learning algorithms to help extract insights from large-scale multimedia data. While at CMU I have worked on diverse projects in Natural Language Processing and Computer Vision.
+
+December 2020: Successfully completed Graduation from CMU's Language Technologies Institute with a Master's degree in Computational Data Science.
+
+Fall 2020: Research Assistant at the Advanced Agent Robotics Technology (AART) Lab  in the Robotics Intitue @ CMU.
 
 Summer 2020: Ongoing Capstone research project aimed at developing an approach for visual dialog-based navigation of an autonomous agent in urban search and rescue scenario.
 
-Spring 2020: Part of a research project aimed at developing a semi-supervised approach for classifying macromolecular structures present in Cryo-ET generated Subtomograms. This work is currently under review at WACV.
-
+Spring 2020: Part of a research project aimed at developing a semi-supervised approach for classifying macromolecular structures present in Cryo-ET generated Subtomograms.
 
 
 <h2>Word Cloud from Projects</h2>
