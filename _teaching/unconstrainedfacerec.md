@@ -2,7 +2,7 @@
 title: "Unconstrained Face Recognition"
 collection: research
 type: "Course Project"
-permalink: https://www.sciencedirect.com/science/article/pii/S1877050918321318?via%3Dihub
+link: https://www.sciencedirect.com/science/article/pii/S1877050918321318?via%3Dihub
 venue: "PES University, Computer Science Dept."
 date: 2018-05-22
 location: "Bangalore, India"

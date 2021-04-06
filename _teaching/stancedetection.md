@@ -2,7 +2,7 @@
 title: "Stance Detection to Identify Fake News"
 collection: research
 type: "Course Project"
-permalink: https://www.youtube.com/watch?v=ZVfx08gFKTI&t=134s
+link: https://www.youtube.com/watch?v=ZVfx08gFKTI&t=134s
 venue: "PES University, Computer Science Dept."
 date: 2019-05-22
 location: "Bangalore, India"
