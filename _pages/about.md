@@ -11,7 +11,7 @@ redirect_from:
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 
 
-I am a recent graduate from Carnegie Mellon University's Language Technologies Institute. My major pertrained to Data Science with a specialization in Analytics. My research interest is aligned with developing Machine Learning algorithms to help extract insights from large-scale multimedia data. While at CMU I have worked on diverse projects in Natural Language Processing and Computer Vision. My past research porject can be found here [https://dataviral.github.io/teaching/](https://dataviral.github.io/teaching/)
+I am a recent graduate from Carnegie Mellon University's Language Technologies Institute. My major pertrained to Data Science with a specialization in Analytics. My research interest is aligned with developing Machine Learning algorithms to help extract insights from large-scale multimedia data. While at CMU I have worked on diverse projects in Natural Language Processing and Computer Vision. My past research porject can be found here [https://dataviral.github.io/research/](https://dataviral.github.io/research/)
 
 Spring 2021: Research Assistant at the Advanced Agent Robotics Technology (AART) Lab  in the Robotics Intitue @ CMU. 
 - Designed an environment agnostic, modular, autonomous agent capable of exploring, describing and communicating information about its surroundings while operating in a bandwidth constrained scenario
